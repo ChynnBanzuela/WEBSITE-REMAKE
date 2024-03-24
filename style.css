@@ -1,0 +1,31 @@
+body{
+  background-color: aliceblue;
+}
+  .container {
+    position: relative;
+    height: 900px;
+    top: -50px; 
+    z-index: 2;
+   
+  }
+
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    margin-top: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-control {
+    border-radius: 5px;
+  }
+  
+  button {
+    margin-top: 15px;
+    width: 100%;
+  }
